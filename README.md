@@ -1,7 +1,7 @@
 ## Introduction:
 
-Predicting flights delay is always an interesting topic to Data Scientists. Since the issues of flights being late costs both airplane operations and consumer money and time, flight delay prediction plays a key role in aviation industry. There is much research have tried to develop and deploy different Machine Learning models to increase the accuracy of prediction.
-In this one-week Midterm Project, we are supposed to perform a Data Science tasks which involving Preprocessing/Clean Data, Exploratory Data Analysis (EDA), Model Selection, Feature Engineering, Feature Selection, Hyperparameter Tuning, and Prediction
+Predicting flights delay has always been an interesting and challenging topic for Data Scientists. Since the problem of flight delays cost both airplane operations and consumer alot of money and time, flight delay prediction plays a key role in the aviation industry. There is much research that has been tried to develop and deploy different Machine Learning models to increase the accuracy of prediction. In this one-week Midterm Project, our goal is to take a try at this challenging problem using the data science tools we learned and practiced throughout the first half of our bootcamp. We hope to learn and gain experince from this real world problem. 
+
 
 ## Project Workflow:
 
