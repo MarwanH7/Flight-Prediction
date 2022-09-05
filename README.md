@@ -25,7 +25,7 @@ The techniques and methodologies used for preprocessing are summarized below, fo
 
 4.	Dummy variables & label Encoding: transforming categorical variables into numerical values to make our data machine learning model friendly, as generally model tend to give better results when data is presented numerically. 
 
-5.	Normalize the values and scale: Used standardised scaling for X values fed before feeding it into our models.
+5.	Normalize the values and scale: Used standardised scaling for X values before feeding it into our models.
 
 ## Modeling Process:
 
@@ -35,7 +35,7 @@ As mentioned above, we used an MVP iterative approach, and we had a total of 3 i
  -MVP (base model 0):  Only numerical categories, with no feature engineering, variable selection, or 
  -Model 1: Feature engineered Weather conditions using data pulled from weather API, Route Traffic using total flights from city to city, Dates to day -   month day of week. All changed to dummy variables. 
  -Model 2:  Same features from model 1 but instead of dummy variables we used Lab Encoder to reduce the features and potentially increase predictive       power. 
- -Model 3:  model 2 kept unchanged, Variable selection to reduce number of features (with small variance and high correlation)
+ -Model 3:  using model 2 , Variable selection to reduce number of features (with small variance and high correlation)
  
  
 
