@@ -21,7 +21,7 @@ The techniques and methodologies used for preprocessing are summarized below, fo
 
 2.	Formatting times: Initially the times in the dataset are in the form of 4 digit numbers which are not very useful, using a transformed function, the times were transformed into HH:MM format
 
-3.	Feature selection:  Some of the features were not needed for the prediction of delays, so the following were dropped for base model this was done in a sense manually using common sense. As we progressed in our process more analytical dimensionality reduction techniques were used such as filter feature selectors, based on two criteria small variance and high correlation. 
+3.	Feature selection:  Some of the features were not needed for the prediction of delays, so the following were dropped, for base model this was done in a sense manually using common sense after researching what each feaure (column) was. As we progressed in our process more analytical dimensionality reduction techniques were used such as filter feature selectors, based on two criteria small variance and high correlation. 
 
 4.	Dummy variables & label Encoding: transforming categorical variables into numerical values to make our data machine learning model friendly, as generally model tend to give better results when data is presented numerically. 
 
